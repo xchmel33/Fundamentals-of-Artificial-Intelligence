@@ -1,6 +1,3 @@
-from tasks import task
-
-
 def printStep(Open, i, reverse=True, Closed=[]):
     if reverse:
         Open.reverse()

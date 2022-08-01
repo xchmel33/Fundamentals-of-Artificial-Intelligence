@@ -1,5 +1,5 @@
-from tasks import *
-from blindMethods import *
+from IZU.tasks import *
+from IZU.blindMethods import *
 
 
 task1 = FillJugsTask([0, 0], [[2, 0], [0, 2]])
